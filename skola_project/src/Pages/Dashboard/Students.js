@@ -3,7 +3,7 @@ import React from 'react';
 const Students = () => {
 
     const handleSubmit=async (e)=>{
-        const student={studentName,studentEmail,studentDOB,studentFatherName,studentMotherName,studentPresentAddress,studentPermanentAddress,lastSchoolName}
+        //const student={studentName,studentEmail,studentDOB,studentFatherName,studentMotherName,studentPresentAddress,studentPermanentAddress,lastSchoolName}
     }
 
     return (
